@@ -61,7 +61,7 @@ you'd like. Pull requests are warmly welcome.
 
 If your vision of a perfect `README.md` differs greatly from mine, it might be
 because your projects are for vastly different. In this case, you can create a
-new file `README-yourplatform` and create the perfect boilerplate for that.
+new file `README-yourplatform.md` and create the perfect boilerplate for that.
 
 E.g. if you have a perfect `README.md` for a Grunt project, just name it as
 `README-grunt.md`.
