@@ -1,4 +1,4 @@
-![Logo of the project][http://placekitten.com/g/700/250]
+![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
 # Name of the project
 > Additional information or tagline
