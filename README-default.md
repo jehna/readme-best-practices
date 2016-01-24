@@ -70,7 +70,7 @@ Here you should write what are all of the configurations a user can enter when
 using the project.
 
 #### Argument 1
-Type: `String`
+Type: `String`  
 Default: `'default value'`
 
 State what an argument does and how you can use it. If needed, you can provide
@@ -82,7 +82,7 @@ awesome-project "Some other value"  # Prints "You're nailing this readme!"
 ```
 
 #### Argument 2
-Type: `Number|Boolean`
+Type: `Number|Boolean`  
 Default: 100
 
 Copy-paste as many of these as you need.
