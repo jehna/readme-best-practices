@@ -103,6 +103,19 @@ guide), you should link it here. If there's a lot of things to take into
 consideration, it is common to separate this section to its own file called
 `CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
 
+### Keeping in touch
+
+If there's a channel outside the Github where the contributors can share
+thoughts, this should be stated here (e.g. mailing list, Slack, IRC channel).
+
+"Join the project team at IRCNet channel #myproduct."
+
+These private channels are also good places where users can report sensitive
+issues like security vulnerabilities:
+
+"In case of sensitive bugs like security vulnerabilities, please use the IRC
+channel rather than opening a Github issue."
+
 ## Licensing
 
 One really important part: Give your project a proper license. Here you should
