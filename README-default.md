@@ -19,6 +19,11 @@ awesome-project "Do something!"  # prints "Nah."
 
 Here you should say what actually happens when you execute the code above.
 
+## Configuration
+
+Here you should write what are all of the configurations a user can enter when
+using the project.
+
 ## Developing
 
 Here's a brief intro about what a developer must do in order to start developing
@@ -63,11 +68,6 @@ What's all the bells and whistles this project can perform?
 * What's the main functionality
 * You can also do another thing
 * If you get really randy, you can even do this
-
-## Configuration
-
-Here you should write what are all of the configurations a user can enter when
-using the project.
 
 #### Argument 1
 Type: `String`  
