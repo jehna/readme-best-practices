@@ -19,7 +19,7 @@ awesome-project "Do something!"  # prints "Nah."
 
 Here you should say what actually happens when you execute the code above.
 
-## Initial Configuration
+### Initial Configuration
 
 Some projects require initial configuration (e.g. access tokens or keys, `npm i`).
 This is the section where you would document those requirements.
