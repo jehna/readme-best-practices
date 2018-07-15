@@ -47,7 +47,7 @@ and pushes it to GitHub (or other preferred remote repository).
 
 This project makes it easy to:
 * Bootstrap your open source project properly
-* Make sure everyone gets what you're trying to archive with your project
+* Make sure everyone gets what you're trying to achieve with your project
 * Follow simple instructions for a perfect `README.md`
 
 ## Contributing
