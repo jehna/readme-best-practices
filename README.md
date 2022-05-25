@@ -3,7 +3,7 @@
 
 One of the most crucial things in your open source project is the `README.md`
 file. This repository has a ready-to-copy-paste template you can use for all
-your projects.
+your projects...
 
 ## Getting started
 
