@@ -1,6 +1,8 @@
 # Readme Best Practices
 > A place to copy-paste your README.md from
 
+![Demo: a project with an empty README.md runs one curl command to fetch README-default.md, a template with seven ready-made sections — Installing, Developing, Features, Configuration, Contributing, Links and Licensing — then fills in the blanks and pushes with git.](assets/hero.gif)
+
 One of the most crucial things in your open-source project is the `README.md`
 file. This repository has a ready-to-copy-paste template you can use for all
 your projects.
